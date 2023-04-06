@@ -6837,5 +6837,670 @@
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000980/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000980/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000980%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000981",
+    "label": "The Sutton Hoo Purse-Lid",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000981/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000981/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000981%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000982",
+    "label": "The Sutton Hoo Shield",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000982/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000982/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000982%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000983",
+    "label": "The Ten Avatars of Vishnu",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000983/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000983/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000983%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000984",
+    "label": "The Unicorn Attacked (The Unicorn Tapestries)",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000984/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000984/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000984%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000985",
+    "label": "The Unicorn Defends Itself (The Unicorn Tapestries)",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000985/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000985/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000985%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000986",
+    "label": "The Unicorn Found (The Unicorn Tapestries)",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000986/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000986/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000986%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000987",
+    "label": "The Unicorn in Captivity (The Unicorn Tapestries)",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000987/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000987/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000987%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000988",
+    "label": "The Unicorn is Killed (The Unicorn Tapestries)",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000988/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000988/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000988%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000989",
+    "label": "The Wilton Diptych",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000989/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000989/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000989%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000990",
+    "label": "The Ziggurat of Ur ",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000990/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000990/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000990%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000991",
+    "label": "Theater at Epidaurus",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000991/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000991/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000991%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000992",
+    "label": "Theater of Delphi",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000992/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000992/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000992%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000993",
+    "label": "Theater of Dionysus -- Acropolis",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000993/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000993/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000993%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000994",
+    "label": "Theodora mosaic, San Vitale",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000994/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000994/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000994%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000995",
+    "label": "Tholos entrance (treasury of Atreus)",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000995/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000995/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000995%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000996",
+    "label": "Tholos interior (treasury of Atreus)",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000996/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000996/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000996%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000997",
+    "label": "Three-color-glazed camel with musicians",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000997/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000997/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000997%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000998",
+    "label": "Thunderbird Transformation Mask",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000998/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000998/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000998%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "000999",
+    "label": "Tile Panel in the form of an Architectural Niche",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000999/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000999/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000999%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001000",
+    "label": "Tintoretto: Finding the Body of St. Mark",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001000/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001000/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001000%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001001",
+    "label": "Tintoretto: Miracle of the Slave",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001001/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001001/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001001%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001002",
+    "label": "Tintoretto: Susanna and the Elders",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001002/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001002/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001002%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001003",
+    "label": "Tintoretto: The Last Supper",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001003/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001003/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001003%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001004",
+    "label": "Titian: Bacchus and Ariadne",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001004/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001004/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001004%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001005",
+    "label": "Titian: Danaë",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001005/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001005/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001005%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001006",
+    "label": "Titian: Madonna of the Pesaro Family",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001006/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001006/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001006%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001007",
+    "label": "Titian: Portrait of Filippo Archinto",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001007/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001007/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001007%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001008",
+    "label": "Titian: The Assumption of the Virgin",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001008/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001008/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001008%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001009",
+    "label": "Titian: The Rape of Europa",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001009/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001009/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001009%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001010",
+    "label": "Titian: Venus of Urbino",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001010/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001010/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001010%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001011",
+    "label": "Tlaltecuhtli, Aztec Earth Goddess, Museo de Templo Mayor",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001011/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001011/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001011%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001012",
+    "label": "Togatus Barberini",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001012/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001012/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001012%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001013",
+    "label": "Toltec Colossal Atlantids at Tula in Mexico",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001013/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001013/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001013%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001014",
+    "label": "Tomb Effigy of Jean D’Aluye ",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001014/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001014/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001014%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001015",
+    "label": "Tomb of Khnumhotep II",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001015/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001015/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001015%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001016",
+    "label": "Tomb of Princess Yongtai, Fresco of Court Ladies",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001016/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001016/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001016%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001017",
+    "label": "Tower Tomb of Elahbel, Palmyra -- Coffered Ceiling",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001017/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001017/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001017%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001018",
+    "label": "Tower Tomb of Elahbel, Palmyra -- Exterior",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001018/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001018/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001018%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001019",
+    "label": "Tree of Life Mosaic ",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001019/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001019/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001019%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001020",
+    "label": "Trimurti: Brahma, Shiva and Vishnu in Elephanta Caves",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001020/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001020/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001020%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001021",
+    "label": "Tripod Cauldron (Ding) 商 青銅鼎",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001021/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001021/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001021%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001022",
+    "label": "Triptych with Scenes from the Passion of Christ",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001022/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001022/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001022%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001023",
+    "label": "Turner: Newark Abbey on the Wey",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001023/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001023/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001023%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001024",
+    "label": "Turner: Rain, Steam and Speed",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001024/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001024/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001024%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001025",
+    "label": "Turner: Slave Ship",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001025/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001025/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001025%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001026",
+    "label": "Twelve Views from a Thatched Hut ",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001026/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001026/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001026%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001027",
+    "label": "Two Birds",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001027/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001027/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001027%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001028",
+    "label": "Two Women Reclining, Reading ",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001028/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001028/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001028%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001029",
+    "label": "Uli Statues",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001029/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001029/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001029%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001030",
+    "label": "Unwan from the Shah Jahan Album",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001030/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001030/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001030%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001031",
+    "label": "Ur-Nammu Law Code",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001031/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001031/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001031%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001032",
+    "label": "Utamaro: Midnight: Mother and Sleepy Child",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001032/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001032/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001032%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001033",
+    "label": "Utamaro: Poem of the Pillow No. 1",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001033/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001033/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001033%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001034",
+    "label": "Utamaro: Poem of the Pillow No. 3",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001034/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001034/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001034%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001035",
+    "label": "Utamaro: Two Beauties with Bamboo",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001035/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001035/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001035%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001036",
+    "label": "van der Rohe and Johnson: Seagram Building",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001036/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001036/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001036%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001037",
+    "label": "Van der Weyden: Descent from the Cross",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001037/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001037/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001037%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001038",
+    "label": "van Eyck: Ghent Altarpiece (closed)",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001038/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001038/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001038%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001039",
+    "label": "van Eyck: Ghent Altarpiece (open)",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001039/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001039/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001039%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001040",
+    "label": "van Eyck: Portrait of a Man in a Red Turban",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001040/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001040/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001040%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001041",
+    "label": "van Eyck: The Arnolfini Portrait",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001041/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001041/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001041%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001042",
+    "label": "van Gogh: Starry Night",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001042/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001042/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001042%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001043",
+    "label": "Varaha (third avatar of Vishnu)",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001043/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001043/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001043%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001044",
+    "label": "Velázquez: Adoration of the Magi",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001044/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001044/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001044%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001045",
+    "label": "Velázquez: Equestrian Portrait of Prince Balthasar Charles ",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001045/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001045/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001045%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001046",
+    "label": "Velázquez: Portrait of Francisco Lezcano",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001046/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001046/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001046%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001047",
+    "label": "Velázquez: Portrait of Innocent X",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001047/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001047/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001047%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001048",
+    "label": "Velazquez: Portrait of Juan de Pareja",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001048/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001048/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001048%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001049",
+    "label": "Velázquez: The Maids of Honour/Las Meninas",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001049/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001049/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001049%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001050",
+    "label": "Velázquez: The Surrender of Breda ",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001050/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001050/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001050%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001051",
+    "label": "Velázquez: The Waterseller of Seville",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001051/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001051/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001051%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001052",
+    "label": "Velázquez: Woman Frying Eggs",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001052/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001052/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001052%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001053",
+    "label": "Venus of Dolni Vestonice",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001053/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001053/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001053%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001054",
+    "label": "Venus of Hohle Fels",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001054/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001054/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001054%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001055",
+    "label": "Venus of Lausell",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001055/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001055/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001055%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001056",
+    "label": "Venus of Willendorf",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001056/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001056/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001056%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001057",
+    "label": "Vermeer: Girl with a Pearl Earring",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001057/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001057/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001057%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001058",
+    "label": "Vermeer: Officer and Laughing Girl",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001058/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001058/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001058%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001059",
+    "label": "Vermeer: The Milkmaid",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001059/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001059/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001059%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001060",
+    "label": "Veronese: Feast in the House of Levi",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001060/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001060/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001060%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001061",
+    "label": "Victory stele of Naram-Sin of Akkad",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001061/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001061/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001061%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001062",
+    "label": "Vigée-LeBrun: Portrait of Marie-Antoinette",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001062/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001062/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001062%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001063",
+    "label": "Vigée-Lebrun: Self Portrait",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001063/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001063/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001063%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001064",
+    "label": "Vigée-LeBrun: Self-Portrait with Straw Hat",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001064/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001064/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001064%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001065",
+    "label": "Viking Jelling Stone",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001065/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001065/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001065%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001066",
+    "label": "Virgin and Child (Île-de-France)",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001066/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001066/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001066%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001067",
+    "label": "Virgin and Child (The Virgin of Paris), Notre-Dame Cathedral",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001067/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001067/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001067%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001068",
+    "label": "Virgin and Child, Adoration of the Magi (Lerida)",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001068/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001068/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001068%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001069",
+    "label": "Vishnu as Vamana or Trivikrama",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001069/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001069/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001069%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001070",
+    "label": "Vishnu Asleep on the Serpent Ananta",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001070/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001070/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001070%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001071",
+    "label": "Vishnu churning the sea of milk at Angkor Wat",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001071/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001071/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001071%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001072",
+    "label": "Votive Disk of Enheduanna",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001072/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001072/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001072%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001073",
+    "label": "Votive Plaque of Dudu",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001073/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001073/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001073%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001074",
+    "label": "Votive tablet, libation scene with a vegetation goddess",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001074/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001074/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001074%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001075",
+    "label": "Wall: A Sudden Gust of Wind (after Hokusai)",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001075/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001075/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001075%2Fmanifest.json&theme=dark"
   }
 ]
