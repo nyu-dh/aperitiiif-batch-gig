@@ -7502,5 +7502,383 @@
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001075/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001075/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001075%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001076",
+    "label": "Wall: After Invisible Man",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001076/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001076/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001076%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001077",
+    "label": "Walpole: Strawberry Hill House",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001077/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001077/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001077%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001078",
+    "label": "Wang Xizhi watching geese",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001078/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001078/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001078%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001079",
+    "label": "Warhol: Gold Marilyn Monroe",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001079/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001079/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001079%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001080",
+    "label": "Wari Culture embroidered hat ",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001080/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001080/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001080%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001081",
+    "label": "Warka Vase ",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001081/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001081/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001081%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001082",
+    "label": "Warrior on a Horse, Comanche",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001082/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001082/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001082%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001083",
+    "label": "Waterhouse: Saint Eulalia",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001083/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001083/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001083%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001084",
+    "label": "Watteau: The Embarkation for Cythera",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001084/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001084/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001084%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001085",
+    "label": "Wedgwood: Portland Vase",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001085/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001085/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001085%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001086",
+    "label": "West Façade Chartres",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001086/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001086/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001086%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001087",
+    "label": "Whale Transformation Mask",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001087/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001087/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001087%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001088",
+    "label": "Whistler: Nocturne in Black and Gold - the Falling Rocket",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001088/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001088/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001088%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001089",
+    "label": "Wiley: Napoleon Leading the Army over the Alps",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001089/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001089/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001089%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001090",
+    "label": "Wine Vase (Zun) 商 青銅尊",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001090/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001090/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001090%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001091",
+    "label": "Wine Vessel (Hu) 西周 青銅壺",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001091/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001091/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001091%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001093",
+    "label": "Wright: A Philosopher Giving a Lecture on the Orrery",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001093/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001093/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001093%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001094",
+    "label": "Wright: An Experiment on a Bird in the Air Pump",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001094/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001094/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001094%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001095",
+    "label": "Wright: The Alchemist in Search of the Philosopher’s Stone",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001095/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001095/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001095%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001096",
+    "label": "Wright: Two Girls Dressing a Kitten by Candlelight",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001096/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001096/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001096%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001097",
+    "label": "Xuan and Attendants",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001097/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001097/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001097%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001098",
+    "label": "Yakshi with Fly Whisk, Didarganj",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001098/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001098/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001098%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001099",
+    "label": "Yakshi, Detail of the East Torana of the Great Stupa at Sachi",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001099/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001099/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001099%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001100",
+    "label": "Yaxchilan Lintel 24 Jaguar Shield II and Lady Xook",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001100/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001100/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001100%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001102",
+    "label": "Youth Diving - from Tomb of the Diver",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001102/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001102/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001102%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001103",
+    "label": "Yup'ik Mask",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001103/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001103/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001103%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001104",
+    "label": "Zeus or Poseidon",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001104/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001104/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001104%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001105",
+    "label": "Zurbarán: The Martyrdom of Saint Serapion",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001105/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001105/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001105%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001106",
+    "label": "Dalí: Lincoln in Dalivision",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001106/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001106/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001106%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001107",
+    "label": "Gauguin: Self Portrait with Halo and Snake",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001107/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001107/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001107%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001108",
+    "label": "Iatmul Ceremonial Men's House",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001108/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001108/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001108%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001109",
+    "label": "Klimt: Danaë",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001109/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001109/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001109%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001110",
+    "label": "Klimt: Judith and the Head of Holofernes",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001110/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001110/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001110%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001111",
+    "label": "Manship: Actaeon",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001111/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001111/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001111%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001112",
+    "label": "Manship: Diana",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001112/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001112/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001112%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001113",
+    "label": "001113",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001113/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001113/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001113%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001114",
+    "label": "001114",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001114/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001114/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001114%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001115",
+    "label": "001115",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001115/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001115/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001115%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001116",
+    "label": "001116",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001116/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001116/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001116%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001117",
+    "label": "001117",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001117/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001117/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001117%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001118",
+    "label": "001118",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001118/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001118/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001118%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001119",
+    "label": "001119",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001119/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001119/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001119%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001120",
+    "label": "001120",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001120/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001120/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001120%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001121",
+    "label": "001121",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001121/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001121/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001121%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001122",
+    "label": "001122",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001122/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001122/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001122%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001123",
+    "label": "001123",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001123/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001123/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001123%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001124",
+    "label": "001124",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001124/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001124/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001124%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001125",
+    "label": "001125",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001125/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001125/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001125%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001126",
+    "label": "001126",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001126/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001126/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001126%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001127",
+    "label": "001127",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001127/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001127/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001127%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001128",
+    "label": "001128",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001128/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001128/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001128%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001129",
+    "label": "001129",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001129/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001129/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001129%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001130",
+    "label": "001130",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001130/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001130/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001130%2Fmanifest.json&theme=dark"
+  },
+  {
+    "id": "001131",
+    "label": "001131",
+    "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/001131/manifest.json",
+    "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_001131/square/250,/0/default.jpg",
+    "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F001131%2Fmanifest.json&theme=dark"
   }
 ]
