@@ -1,6 +1,7 @@
 GIT
   remote: https://github.com/middlicomp/aperitiiif-cli.git
-  revision: 599f4745fbb91e6812b5f2a1998d7babe2a1cfd0
+  revision: c79eec4312104c861d7b292c4c3d806e467e2a19
+  branch: feature/csv-download-gig
   specs:
     aperitiiif (0.1.2)
       colorize
