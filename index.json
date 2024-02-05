@@ -1884,7 +1884,7 @@
   },
   {
     "id": "000271",
-    "label": "Doryphoros (Spear Bearer) by Polykleitos.\nRoman Copy from the Palaestra, Pompeii, Italy, of a \nBronze Statue \n",
+    "label": "Doryphoros (Spear Bearer) by Polykleitos.\r\nRoman Copy from the Palaestra, Pompeii, Italy, of a \r\nBronze Statue \r\n",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000271/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000271/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000271%2Fmanifest.json&theme=dark"
@@ -5258,7 +5258,7 @@
   },
   {
     "id": "000754",
-    "label": "Phoenix-Headed Ewer\n",
+    "label": "Phoenix-Headed Ewer\r\n",
     "manifest_url": "https://aperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com/gig/000754/manifest.json",
     "thumbnail_url": "https://d1b7k5w7yjwpfg.cloudfront.net/iiif/2/gig_000754/square/250,/0/default.jpg",
     "viewpoint_url": "https://dss.hosting.nyu.edu/viewpoint/mirador/#manifests[]=https%3A%2F%2Faperitiiif-presentation-api-store.s3.us-east-1.amazonaws.com%2Fgig%2F000754%2Fmanifest.json&theme=dark"
